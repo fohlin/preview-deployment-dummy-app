@@ -10,7 +10,7 @@ export class AppRoot {
     return (
       <div>
         <header>
-          <h1>Stencil App Starter VERSION 2</h1>
+          <h1>Stencil App Starter VERSION 2 BETTER</h1>
         </header>
 
         <main>
